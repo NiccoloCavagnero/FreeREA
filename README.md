@@ -16,7 +16,7 @@ If you use this code or the attached files for research purposes, please cite
 ## Software requirements
 * Python 3.9 or newer
 * PyTorch 1.9 or newer
-* Other Python libraries listed in `requirements.txt
+* Other Python libraries listed in `requirements.txt`
 
 ## Hardware requirements
 A CUDA-capable GPU is required to compute the metrics.
