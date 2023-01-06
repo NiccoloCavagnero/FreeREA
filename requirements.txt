@@ -1,0 +1,9 @@
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.19.5
+pillow>=8.0.1
+thop~=0.0.31
+nats-bench==1.5
+xautodl==1.0.0
+scipy~=1.7.3
+pandas~=1.3.4

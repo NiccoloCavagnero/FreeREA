@@ -1,0 +1,15 @@
+.idea/
+__pycache__/
+tensorboard*/
+experiments*/
+data/
+*.ignore.*
+*.pth
+*.npy
+*.pkl
+*.tar
+*.tar.*
+*.zip
+*.png
+*.pth.*
+*.tfrecord
